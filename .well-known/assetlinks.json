@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.skicentar_mobile",
+    "sha256_cert_fingerprints":
+    ["52:67:90:45:94:27:8A:6F:FC:F5:6C:08:03:16:C2:6A:3D:AC:C6:DF:71:51:1D:0C:A3:A0:8E:67:D7:D5:32:10"]
+  }
+}]
